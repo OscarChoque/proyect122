@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/proyect122/static/css/main.5aaf8158.css",
+    "main.js": "/proyect122/static/js/main.87489599.js",
+    "static/js/787.705b9a8d.chunk.js": "/proyect122/static/js/787.705b9a8d.chunk.js",
+    "static/media/obraInf.jpg": "/proyect122/static/media/obraInf.a7c0fdad0419d8d11ee9.jpg",
+    "static/media/Banner.jpeg": "/proyect122/static/media/Banner.313d4de12e49a4bcf599.jpeg",
+    "static/media/expoFoto.jpg": "/proyect122/static/media/expoFoto.4c8856a7f88b975b348b.jpg",
+    "static/media/logo.jpeg": "/proyect122/static/media/logo.6686548e514310a92410.jpeg",
+    "static/media/teatroCom.jpg": "/proyect122/static/media/teatroCom.611de090b0c88c656b5e.jpg",
+    "static/media/centro3.jpeg": "/proyect122/static/media/centro3.b30b7c32945f58c93195.jpeg",
+    "static/media/conciertoJazz.jpg": "/proyect122/static/media/conciertoJazz.1075eebd75acea0c5625.jpg",
+    "static/media/confArt.jpg": "/proyect122/static/media/confArt.407480960107bec145d8.jpg",
+    "static/media/claseMus.jpg": "/proyect122/static/media/claseMus.7ee10e119017ae0a8c81.jpg",
+    "static/media/concierto2.jpg": "/proyect122/static/media/concierto2.e5973bd7f3a56b13663f.jpg",
+    "static/media/concierto.jpg": "/proyect122/static/media/concierto.53cee783ab9eaef69d92.jpg",
+    "static/media/centro2.jpeg": "/proyect122/static/media/centro2.8e363a0ee959a436320b.jpeg",
+    "static/media/confTea.jpg": "/proyect122/static/media/confTea.8cf10d34568e6e885b47.jpg",
+    "static/media/teatro1.jpg": "/proyect122/static/media/teatro1.646974fdd7673842df3a.jpg",
+    "static/media/expoInfan.jpg": "/proyect122/static/media/expoInfan.f69526812338d6c75fd1.jpg",
+    "static/media/centro1.jpeg": "/proyect122/static/media/centro1.2bc22e20ca7953955732.jpeg",
+    "static/media/claseArt.jpg": "/proyect122/static/media/claseArt.c3d9eaf25f34adf18fd9.jpg",
+    "static/media/comun1.jpeg": "/proyect122/static/media/comun1.863df2b7ebfdb0b11c78.jpeg",
+    "static/media/expoInd.jpeg": "/proyect122/static/media/expoInd.c2b40112411d8a0f264a.jpeg",
+    "static/media/conciertoClasic.jpeg": "/proyect122/static/media/conciertoClasic.0a749a6a7279dc493bd9.jpeg",
+    "static/media/comun2.jpeg": "/proyect122/static/media/comun2.3c1e7ff7d8f6a4c2daa4.jpeg",
+    "static/media/concierto3.jpg": "/proyect122/static/media/concierto3.bd9a04e47a4399ea238e.jpg",
+    "static/media/expoCont.jpeg": "/proyect122/static/media/expoCont.159d02b4733111f6af4c.jpeg",
+    "static/media/visita3.jpeg": "/proyect122/static/media/visita3.30c33ecd90335b2d4692.jpeg",
+    "static/media/teatro2.jpeg": "/proyect122/static/media/teatro2.d591274fe76475088c90.jpeg",
+    "static/media/comun3.jpeg": "/proyect122/static/media/comun3.d40411f72dc7bac310de.jpeg",
+    "static/media/visita2.jpeg": "/proyect122/static/media/visita2.a92244800a21a82e66ff.jpeg",
+    "index.html": "/proyect122/index.html",
+    "main.5aaf8158.css.map": "/proyect122/static/css/main.5aaf8158.css.map",
+    "main.87489599.js.map": "/proyect122/static/js/main.87489599.js.map",
+    "787.705b9a8d.chunk.js.map": "/proyect122/static/js/787.705b9a8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aaf8158.css",
+    "static/js/main.87489599.js"
+  ]
+}
